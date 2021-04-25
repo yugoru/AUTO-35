@@ -1,1 +1,1 @@
-`gradle clean test`
+QA-guru. Домашняя работа 12
